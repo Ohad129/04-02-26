@@ -1,0 +1,7 @@
+first_name: str = input('enter first name')
+last_name: str = input('enter last name')
+id: str = input('enter id')
+phone: str = input('enter phone number')
+year_birth: int = int(input('enter birth year'))
+vegetarian: bool = bool(input('enter if vegetarian'))
+exact_age: float = float(input('enter exact age:'))
